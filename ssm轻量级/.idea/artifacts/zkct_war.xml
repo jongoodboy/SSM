@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zkct:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringTest-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zkc:war exploded" />
+    </root>
+  </artifact>
+</component>
